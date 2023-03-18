@@ -1,6 +1,11 @@
 # resto
 Road to LKS // Mobile App. using React Native.
 
+Features:
+- [x] Login Screen
+- [ ] Menu Screen
+- [ ] Order Screen
+
 # Prerequisites
 - NodeJS - https://nodejs.org
 - Git (opsional) - https://git-scm.com/downloads
