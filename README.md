@@ -7,7 +7,14 @@ Road to LKS // Mobile App. using React Native.
 
 # Install
 - Download / clone repo ini https://github.com/HilmiZul/resto
-- Buka `cmd` dan Install dependencies 
+- Buka `cmd`
+```bash
+git clone https://github.com/HilmiZul/resto
+```
+```bash
+cd resto
+```
+- Install dependencies 
 ```bash
 npm install
 ```
@@ -16,11 +23,11 @@ npm install
 npx expo start
 ```
 - Scan QR dari HP Android Anda
-- Jika meminta install Expo dari GooglePlay, lanjutkan install.
+- Jika meminta *install* Expo dari **GooglePlay**, lanjutkan *install*.
 - Selesai.
 
 # Workflow
-Coding di Laptop (spek biasa aja)
+Coding di Laptop
 
 ⬇️
 
