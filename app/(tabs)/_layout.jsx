@@ -7,11 +7,15 @@ export default function() {
       <Tabs.Screen name='home' options={{ 
         title: 'Home', 
         tabBarIcon: () => <FontAwesome name='home'
-        size={30} />}}/>
+        size={25} />}}/>
+      <Tabs.Screen name='products' options={{ 
+        title: 'Products', 
+        tabBarIcon: () => <FontAwesome name='heart'
+        size={25} />}}/>
       <Tabs.Screen name='profile' options={{ 
         title: 'Profile', 
         tabBarIcon: () => <FontAwesome name='user'
-        size={30} /> }}/>
+        size={25} /> }}/>
     </Tabs>
   )
 }
